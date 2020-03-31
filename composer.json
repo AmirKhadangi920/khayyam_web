@@ -1,0 +1,12 @@
+{
+  "name": "new/mini-project",
+  "authors": [
+    {
+      "name": "Amir Khadangi",
+      "email": "amirkhadangi920@Gmail.com"
+    }
+  ],
+  "require": {
+    "rexxars/html-validator": "^2.2"
+  }
+}
